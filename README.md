@@ -1,20 +1,30 @@
-### Otávio Cunha
+# Hi 👋, I'm Otávio Cunha
 
-<div>
-  <a href="https://github.com/psiotavio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psiotavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiotavio&layout=compact&langs_count=16&theme=dracula"/>
- </div>
-  
-<div style="display: inline_block"><br>
-<img align="center" alt="Otavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Otavio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="Otavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Otavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Otavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Otavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Otavio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Otavio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  </div>
-  
-  ##
+### Mobile Software Engineer focused on scalable apps, architecture and user experience
+
+I build production-grade mobile applications using React Native, TypeScript and modern engineering practices.  
+Currently pursuing an MSc in Computer Science (UI/UX) and publishing production apps used by real users.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psiotavio&label=Profile%20views&color=0e75b6&style=flat" alt="psiotavio" /> </p>
+
+---
+
+🔭 **Currently building**
+- 🎬 Watchfolio — movie tracking & recommendation app (Top 100 App Store)
+- 👩‍🍼 1000 Dias — maternal wellness mobile app focused on tracking, guidance and personalized insights throughout the first 1000 days
+- 🚀 Personal mobile products focused on performance and UX  
+
+---
+
+📫 **How to reach me**
+<p align="left">
+<a href="https://linkedin.com/in/otavio-cunhap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavio-cunhap" height="30" width="40" /></a>
+<a href="https://instagram.com/otavio_cunhap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavio_cunhap" height="30" width="40" /></a>
+</p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psiotavio&theme=dark" alt="psiotavio" /></p>
+
+
+
